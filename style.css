@@ -1,0 +1,23 @@
+html {
+  background-color: gray;
+}
+
+body {
+  width: 600px;
+  background-color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  padding: 15px;
+}
+
+#question {
+  color: green;
+}
+
+.text {
+  font-family: fantasy;
+}
+
+img:hover {
+  cursor: pointer;
+}
